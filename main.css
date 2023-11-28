@@ -1,0 +1,39 @@
+
+.wrapper{
+  width: 550px;
+  height: 833px;
+  color: #123;
+}
+
+
+.calcresult {
+  background-color: black;
+  color: white;
+}
+
+
+button{
+  font-size: 18px;
+  width: 20%;
+  color: #123;
+  vertical-align: middle;
+  background-color: #f0f8ff
+}
+
+
+input{
+  box-sizing: border-box;
+  width: 83%;
+  height: 2.5rem;
+  font-size: 1.6rem;
+  text-align:right;
+}
+
+.clear{
+  width: 14.05rem;
+}
+
+.equal{
+  width: 14.1rem;
+}
+ 
